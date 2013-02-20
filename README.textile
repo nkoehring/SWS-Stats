@@ -1,3 +1,17 @@
 h1. SWS-Stats
 
-a simple tracker and commmenting service for your own webserver
+A simple tracker and commmenting service for your own webserver.
+
+h2. Feature ideas for now
+
+_tracker_
+* track different websites
+* track subpages
+* track events
+* stats page
+
+_comments_
+* comments for different websites
+* comments for subpages
+* comments via javascript (jsonp?)
+* comments moderation (locked by default, unlock or delete by moderator)
